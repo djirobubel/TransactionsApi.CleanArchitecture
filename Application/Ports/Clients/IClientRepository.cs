@@ -1,6 +1,6 @@
 ﻿using Domain.Entities;
 
-namespace Application.Common.Interfaces
+namespace Application.Ports.Clients
 {
     public interface IClientRepository
     {

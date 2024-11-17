@@ -1,4 +1,4 @@
-﻿namespace Application.Common.Interfaces
+﻿namespace Application.Ports.Currency
 {
     public interface ICurrencyRepository
     {

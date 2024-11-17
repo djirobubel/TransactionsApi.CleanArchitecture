@@ -1,6 +1,4 @@
-﻿using Application.Common.Dtos;
-
-namespace Application.Queries.GetClientBalance
+﻿namespace Application.Queries.GetClientBalance
 {
     public class GetClientsBalanceQueryResult
     {

@@ -1,6 +1,4 @@
-﻿using Application.Common.Dtos;
-
-namespace Application.Queries.GetClientTransactions
+﻿namespace Application.Queries.GetClientTransactions
 {
     public class GetClientTransactionsQueryResult
     {

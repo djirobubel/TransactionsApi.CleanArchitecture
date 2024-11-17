@@ -1,4 +1,4 @@
-﻿using Application.Common.Interfaces;
+﻿using Application.Ports.Currency;
 using Newtonsoft.Json.Linq;
 
 namespace Infrastructure.Repositories

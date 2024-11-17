@@ -1,6 +1,4 @@
-﻿using Application.Common.Dtos;
-
-namespace Application.Queries.GetAllClients
+﻿namespace Application.Queries.GetAllClients
 {
     public class GetAllClientsQueryResult
     {
