@@ -1,5 +1,4 @@
-﻿using Application.Common.Dtos;
-using Application.Common.Interfaces;
+﻿using Application.Ports.Clients;
 using MediatR;
 
 namespace Application.Queries.GetAllClients

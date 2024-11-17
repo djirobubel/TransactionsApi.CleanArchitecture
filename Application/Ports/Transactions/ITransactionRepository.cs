@@ -1,6 +1,6 @@
 ﻿using Domain.Entities;
 
-namespace Application.Common.Interfaces
+namespace Application.Ports.Transactions
 {
     public interface ITransactionRepository
     {

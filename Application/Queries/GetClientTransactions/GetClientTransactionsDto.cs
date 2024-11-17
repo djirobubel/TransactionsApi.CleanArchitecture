@@ -1,4 +1,4 @@
-﻿namespace Application.Common.Dtos
+﻿namespace Application.Queries.GetClientTransactions
 {
     public class GetClientTransactionsDto
     {

@@ -1,5 +1,7 @@
 using Application.Commands.Accrual;
-using Application.Common.Interfaces;
+using Application.Ports.Clients;
+using Application.Ports.Currency;
+using Application.Ports.Transactions;
 using Infrastructure.Context;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
